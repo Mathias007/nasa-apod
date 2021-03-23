@@ -1,7 +1,7 @@
 {
     "name": "NASA APOD",
     "short_name": "NASA APOD",
-    "description": "Zbudowany w HTML, CSS i Javascript responsywny projekt wykorzystujący NASA API do prezentowania zdjęć z kosmosu z ich opisami (lazy loading) z możliwością zapisywania i usuwania przez użytkownika ulubionych w localstorage.",
+    "description": "Zbudowany w HTML, CSS i Javascript responsywny projekt wykorzystujący NASA APOD API do prezentowania zdjęć z kosmosu z ich opisami z możliwością zapisywania i usuwania przez użytkownika ulubionych w localStorage.",
     "author": "Mateusz Mathias Stawowski",
     "homepage_url": "https://github.com/Mathias007",
     "icons": [
